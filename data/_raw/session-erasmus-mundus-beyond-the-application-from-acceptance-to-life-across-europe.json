@@ -1,0 +1,140 @@
+﻿{
+    "slug":  "erasmus-mundus-beyond-the-application-from-acceptance-to-life-across-europe",
+    "type":  "Workshop",
+    "seatsRemaining":  24,
+    "title":  "Erasmus Mundus Application and Beyond",
+    "subtitle":  "From Application, Acceptance to Life Across Europe",
+    "description":  "Erasmus Mundus doesn’t end with an acceptance letter. Get an insider’s look at what happens next, from preparing to leave Bangladesh and navigating multiple universities to studying, moving across Europe, and experiencing the real Erasmus journey firsthand.",
+    "dateLabel":  "Oct 24",
+    "timeLabel":  "7:00 PM GMT+6",
+    "durationLabel":  "100 min",
+    "modeLabel":  "Live + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "950.00",
+    "mentorName":  "Mohsina Siddika",
+    "mentorUniversity":  "University of Aberdeen",
+    "mentorSlug":  "mohsina-siddika",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "Hi, I’m Mohsina - an Erasmus Mundus Scholar who studied across Belgium and Spain at Ghent University, UB, UAB, and UPC. Soon to be starting my PhD journey at University of Aberdeen, Scotland.",
+                      "I’ve been through the full study-abroad journey on my own , shortlisting universities, writing motivation letters, applying for scholarships, handling visas, relocating across countries, and adapting to completely new academic systems and cultures. I know how confusing, overwhelming, and stressful this process can feel because I’ve lived it.",
+                      "I’m very detail-oriented when it comes to applications. I know what makes a motivation letter stand out, how to structure a strong CV, and how to plan a smart scholarship strategy, especially for Erasmus Mundus and other funded programs. I can also guide you through visa steps, relocation planning, and what it’s really like to study and live in Europe as an international student.",
+                      "If you want practical guidance, honest feedback, and someone who will help you stay organised, confident, and on track, I’m here to help you make your application clear, strong, and hard to ignore!"
+                  ],
+    "outcomesHeading":  "After 100 minutes, you will have a clearer plan",
+    "outcomesIntro":  "4 outcomes distilled from a successful study-abroad path.",
+    "outcomes":  [
+                     {
+                         "title":  "From Application to Acceptance",
+                         "description":  null
+                     },
+                     {
+                         "title":  "What Happens After You Get Selected",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Life Inside an Erasmus Mundus Programme",
+                         "description":  null
+                     },
+                     {
+                         "title":  "What Comes After Erasmus",
+                         "description":  null
+                     }
+                 ],
+    "roadmapHeading":  "The 100-minute roadmap",
+    "roadmapIntro":  "Four parts, one live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  20,
+                      "title":  "Before You Get In",
+                      "bullets":  [
+                                      "How to identify programmes that genuinely fit your academic and career goals",
+                                      "What makes an Erasmus Mundus application competitive beyond academic results",
+                                      "How to approach your CV, motivation letter, and recommendation letters",
+                                      "What students should think about before choosing a programme and applying",
+                                      "Lessons from Mohsina’s own application journey and what she would do differently today"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  20,
+                      "title":  "You Got Selected. What Happens Now?",
+                      "bullets":  [
+                                      "What happens after receiving an Erasmus Mundus offer",
+                                      "What students need to prepare before leaving Bangladesh",
+                                      "How the transition from applicant to international student actually happens",
+                                      "What changes once you are officially part of the programme",
+                                      "What students should expect during the first few weeks of the journey",
+                                      "Practical lessons from Mohsina’s own transition from Bangladesh to Europe"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  20,
+                      "title":  "Studying Across Countries and Universities",
+                      "bullets":  [
+                                      "How a joint Erasmus Mundus programme actually works across partner universities",
+                                      "What it is like to move between different universities and academic systems",
+                                      "How expectations, teaching styles, coursework, and academic environments can change",
+                                      "How students adapt when they move to a new country or university",
+                                      "What makes the multi-country experience different from studying at one university",
+                                      "What Mohsina learned from studying across Belgium and Spain"
+                                  ]
+                  },
+                  {
+                      "part":  4,
+                      "minutes":  30,
+                      "title":  "Live Q\u0026A With an Erasmus Mundus Alumna",
+                      "bullets":  [
+                                      "Students can ask Mentor Mohsina about both the application and the journey after getting selected"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for the student who is serious about getting funded.",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "Students preparing for Erasmus Mundus"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "Applicants who want real Erasmus experience"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "Students curious about life after acceptance"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "Applicants interested in studying across Europe"
+                     },
+                     {
+                         "number":  "05",
+                         "text":  "Students who want to understand the real Erasmus experience"
+                     },
+                     {
+                         "number":  "06",
+                         "text":  "Students who know the application basics but want to know what comes next"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

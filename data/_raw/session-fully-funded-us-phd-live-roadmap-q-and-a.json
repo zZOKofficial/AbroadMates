@@ -1,0 +1,153 @@
+﻿{
+    "slug":  "fully-funded-us-phd-live-roadmap-q-and-a",
+    "type":  "Roadmap Session",
+    "seatsRemaining":  30,
+    "title":  "Fully funded",
+    "subtitle":  "US PhD roadmap",
+    "description":  "A live roadmap through the complete US PhD application — taught by a researcher who secured a fully funded position at Northeastern University. Not a broadcast: a private small-group mentorship with live Q\u0026A.",
+    "dateLabel":  "Sep 6",
+    "timeLabel":  "9:00 PM GMT+6",
+    "durationLabel":  "100 min",
+    "modeLabel":  "Live + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "950.00",
+    "mentorName":  "Abdullah Bin Murad (rifat)",
+    "mentorUniversity":  "Northeastern University",
+    "mentorSlug":  "abdullah-bin-murad-rifat",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "Abdullah made the journey from Bangladesh to a fully funded PhD at Northeastern University — navigating research alignment, cold outreach, and funding conversations without a guide. Now he distills everything he learned into a single, candid roadmap session."
+                  ],
+    "outcomesHeading":  "After 100 minutes, you will have a clearer plan",
+    "outcomesIntro":  "Eight outcomes — each a real decision in a funded US PhD application, distilled from a successful one.",
+    "outcomes":  [
+                     {
+                         "title":  "Approach the process strategically",
+                         "description":  "A framework, not a checklist — sequence every move from shortlist to submit."
+                     },
+                     {
+                         "title":  "What makes a strong funded applicant",
+                         "description":  "The signals committees weigh beyond GPA: research, publications, projects, fit."
+                     },
+                     {
+                         "title":  "Find suitable universities \u0026 professors",
+                         "description":  "Shortlist by research group and funding track, not just rankings."
+                     },
+                     {
+                         "title":  "Communicate with professors effectively",
+                         "description":  "Cold emails that get replies — framing, attachments, and follow-up."
+                     },
+                     {
+                         "title":  "Structure a PhD-focused CV",
+                         "description":  "Present research, projects, and publications the way faculty read them."
+                     },
+                     {
+                         "title":  "Write a stronger SOP",
+                         "description":  "Connect background, research interest, and future goals into one narrative."
+                     },
+                     {
+                         "title":  "Improve your application before submission",
+                         "description":  "The upgrades that move a borderline profile to competitive."
+                     },
+                     {
+                         "title":  "Your next steps",
+                         "description":  "Leave with the next three moves to make in your PhD journey this week."
+                     }
+                 ],
+    "roadmapHeading":  "The 100-minute roadmap",
+    "roadmapIntro":  "Four parts, one live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  10,
+                      "title":  "Understanding the US PhD journey",
+                      "bullets":  [
+                                      "How fully funded US PhD programs work",
+                                      "Funded PhD vs other graduate pathways",
+                                      "What universities look for beyond GPA",
+                                      "How research, publications \u0026 projects shape your application"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  30,
+                      "title":  "Building a strong application strategy",
+                      "bullets":  [
+                                      "Evaluating whether your profile is PhD-ready",
+                                      "Shortlisting universities and research groups",
+                                      "Identifying professors with matching research interests",
+                                      "Approaching professors effectively",
+                                      "What makes an applicant stand out"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  20,
+                      "title":  "Application documents deep dive",
+                      "bullets":  [
+                                      "What a strong PhD CV should include",
+                                      "Presenting research, projects \u0026 publications",
+                                      "A breakdown of the mentor\u0027s own CV",
+                                      "What makes an SOP convincing",
+                                      "Common SOP mistakes students make"
+                                  ]
+                  },
+                  {
+                      "part":  4,
+                      "minutes":  40,
+                      "title":  "Live Q\u0026A with the mentor",
+                      "bullets":  [
+                                      "Your profile \u0026 university selection",
+                                      "Professor outreach \u0026 funding concerns",
+                                      "CV, SOP \u0026 recommendation letters",
+                                      "Application strategy, answered from real experience"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for the student who is serious about getting funded.",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "Students planning to apply for a fully funded PhD in the USA"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "Undergraduates or graduates unsure if their profile is competitive"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "Students confused about research areas, universities, or supervisors"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "Applicants needing guidance on outreach, SOP, CV \u0026 recommendation letters"
+                     },
+                     {
+                         "number":  "05",
+                         "text":  "Students preparing for the upcoming US PhD application cycle"
+                     },
+                     {
+                         "number":  "06",
+                         "text":  "Anyone who wants the real journey — from home country to a funded US PhD"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

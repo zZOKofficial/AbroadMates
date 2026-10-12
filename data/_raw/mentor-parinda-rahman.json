@@ -1,0 +1,101 @@
+﻿{
+    "slug":  "parinda-rahman",
+    "name":  "Parinda Rahman",
+    "mentorSince":  "Oct 2025",
+    "photo":  "v1760606022/abroadmates/mentors/bzzhsmm39a3yxg9tuqd2.jpg",
+    "degree":  "Master\u0027s",
+    "scholarship":  "100% Full Tuition Waiver",
+    "university":  "University of British Columbia",
+    "program":  "Computer science",
+    "country":  "Canada",
+    "story":  "I’m a Computer Science Master’s graduate from the University of British Columbia (UBC), where I completed my studies on a full scholarship, and a Computer Science BSc graduate from North South University, with an online BSc in Psychology from the University of Derby. I have research experience in ethical technology and UX, along with hands-on work in data science and human-computer interaction. Having studied in Bangladesh and Canada, I’ve learned to adapt quickly, communicate across cultures, and thrive in diverse academic and professional environments. Fluent in English, I’m passionate about helping students navigate study abroad journeys and maximize their global education opportunities.",
+    "topics":  [
+                   {
+                       "name":  "Roadmap",
+                       "description":  "A clear step-by-step study-abroad plan."
+                   },
+                   {
+                       "name":  "Essay Review",
+                       "description":  "Feedback on essays and written applications."
+                   },
+                   {
+                       "name":  "Scholarships",
+                       "description":  "Find and strengthen scholarship applications."
+                   },
+                   {
+                       "name":  "Visa Application",
+                       "description":  null
+                   },
+                   {
+                       "name":  "ECA Guidance",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Personal Statement",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "University of British Columbia",
+                            "country":  "Canada",
+                            "scholarship":  "100% Scholarship",
+                            "status":  "Accepted"
+                        },
+                        {
+                            "university":  "University of Calgary",
+                            "country":  "Canada",
+                            "scholarship":  "50% Scholarship",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Glasgow",
+                            "country":  "United Kingdom",
+                            "scholarship":  "25% Scholarship",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Edinburgh",
+                            "country":  "United Kingdom",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "University College London (UCL)",
+                            "country":  "United Kingdom",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "Queen Mary University",
+                            "country":  "United Kingdom",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "Cornell University",
+                            "country":  "United States",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Warwick",
+                            "country":  "United Kingdom",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "King\u0027s College London",
+                            "country":  "United Kingdom",
+                            "scholarship":  null,
+                            "status":  null
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "Bangladesh Debating Council",
+                           "detail":  null,
+                           "description":  null
+                       }
+                   ]
+}

@@ -1,0 +1,117 @@
+﻿{
+    "slug":  "gks-application-overview-embassy-vs-university-track-live-qa",
+    "type":  "Workshop",
+    "seatsRemaining":  29,
+    "title":  "GKS Application Overview",
+    "subtitle":  "Embassy vs University Track + Live Q\u0026A",
+    "description":  "Embassy track or university track? Learn how the GKS routes differ, what the official call requires, how to approach university selection and documents, and what successful preparation looks like.",
+    "dateLabel":  "Nov 8",
+    "timeLabel":  "9:00 PM GMT+6",
+    "durationLabel":  "90 min",
+    "modeLabel":  "Live + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "1450.00",
+    "mentorName":  "Selim Sarowar",
+    "mentorUniversity":  "Yeungnam University",
+    "mentorSlug":  "selim-sarowar",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "I am pursuing an M.Sc. in Computer Vision \u0026 AI at Yeungnam University (YU). I am a Global Korea Scholarship (GKS) scholar funded by NIIED, with additional support from the RLRC \u0026 RISE industry-collaboration projects.",
+                      "My research focuses on 3D computer vision \u0026 spatial intelligence, 6D pose estimation, vision-language-action (VLA) models, world models, and agentic robotics for robot manipulation.",
+                      "My Homepage: s-elim.github.io"
+                  ],
+    "outcomesHeading":  "After 90 minutes, you will have a clearer plan",
+    "outcomesIntro":  "3 outcomes distilled from a successful study-abroad path.",
+    "outcomes":  [
+                     {
+                         "title":  "GKS track-comparison sheet",
+                         "description":  null
+                     },
+                     {
+                         "title":  "University-selection worksheet",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Document-readiness checklist",
+                         "description":  null
+                     }
+                 ],
+    "roadmapHeading":  "The 90-minute roadmap",
+    "roadmapIntro":  "Four parts, one live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  9,
+                      "title":  "Understanding the journey",
+                      "bullets":  [
+                                      "GKS structure and official application stages",
+                                      "Embassy-track and university-track differences"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  31,
+                      "title":  "Building a strong application strategy",
+                      "bullets":  [
+                                      "Degree-level and university-selection considerations",
+                                      "Required-document planning"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  23,
+                      "title":  "Application documents deep dive",
+                      "bullets":  [
+                                      "Personal statement and study-plan purpose",
+                                      "Recommendation and document-readiness planning"
+                                  ]
+                  },
+                  {
+                      "part":  4,
+                      "minutes":  27,
+                      "title":  "Live Q\u0026A with the mentor",
+                      "bullets":  [
+                                      "Common application mistakes",
+                                      "Mentor story and live Q\u0026A"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for the student who is serious about getting funded.",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "Students seriously preparing for GKS"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "Applicants confused about embassy and university tracks"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "Students who need help organising documents and university choices"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "Applicants seeking first-hand insight before completing their application"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

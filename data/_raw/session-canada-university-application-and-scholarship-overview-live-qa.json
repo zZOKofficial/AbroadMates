@@ -1,0 +1,117 @@
+﻿{
+    "slug":  "canada-university-application-and-scholarship-overview-live-qa",
+    "type":  "Workshop",
+    "seatsRemaining":  29,
+    "title":  "Canada University Application and Scholarship Overview + Live Q\u0026A",
+    "subtitle":  null,
+    "description":  "Build a realistic Canadian university shortlist instead of applying only by ranking. Learn how programme fit, provincial application systems, scholarships, documents, costs, and deadlines affect your choices.",
+    "dateLabel":  "Oct 18",
+    "timeLabel":  "9:00 PM GMT+6",
+    "durationLabel":  "90 min",
+    "modeLabel":  "Live + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "699.00",
+    "mentorName":  "Tabib Wasit Khan",
+    "mentorUniversity":  "Memorial University of Newfoundland, Canada 🇨🇦",
+    "mentorSlug":  "tabib-wasit-khan",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "I’m from Bangladesh and have been living in St. John’s for more than three years. I’m a fourth-year Economics student at Memorial University of Newfoundland, pursuing a Minor in Business Administration and a Diploma in Public Policy, with an expected graduation in 2027.",
+                      "I have been through the full experience of moving abroad, figuring things out one step at a time and I genuinely enjoy helping others do the same. Whether it is settling in, finding work, navigating university life or just feeling a little less lost, I am happy to support however I can.",
+                      "Fun fact: I am a shameless binge watcher. If I start a show I like, I have to finish it in one sitting, even if it means staying up until 4 a.m. I just cannot deal with cliffhangers!"
+                  ],
+    "outcomesHeading":  "After 90 minutes, you will have a clearer plan",
+    "outcomesIntro":  "3 outcomes distilled from a successful study-abroad path.",
+    "outcomes":  [
+                     {
+                         "title":  "Five-university shortlist framework;",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Scholarship and cost-comparison sheet;",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Deadline and document tracker;",
+                         "description":  null
+                     }
+                 ],
+    "roadmapHeading":  "The 90-minute roadmap",
+    "roadmapIntro":  "Four parts, one live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  9,
+                      "title":  "Understanding the journey",
+                      "bullets":  [
+                                      "Programme and university-fit assessment;",
+                                      "Provincial systems and direct-application differences;"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  31,
+                      "title":  "Building a strong application strategy",
+                      "bullets":  [
+                                      "Academic and English-language requirements;",
+                                      "Scholarship and affordability considerations;"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  23,
+                      "title":  "Application documents deep dive",
+                      "bullets":  [
+                                      "Document and deadline planning;",
+                                      "Building a balanced university shortlist;"
+                                  ]
+                  },
+                  {
+                      "part":  4,
+                      "minutes":  27,
+                      "title":  "Live Q\u0026A with the mentor",
+                      "bullets":  [
+                                      "Common application mistakes;",
+                                      "Mentor experience and live Q\u0026A;"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for the student who is serious about getting funded.",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "HSC, A-Level, and IB students considering Canada"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "Families comparing Canadian university costs and scholarships"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "Applicants confused about direct applications and provincial systems"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "Students who want a five-university shortlist and timeline"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

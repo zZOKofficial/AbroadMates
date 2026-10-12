@@ -1,0 +1,83 @@
+﻿{
+    "slug":  "selim-sarowar",
+    "name":  "Selim Sarowar",
+    "mentorSince":  "Feb 2026",
+    "photo":  "v1771382780/abroadmates/mentors/bj1ejeukokflh0rr7wi8.jpg",
+    "degree":  "Master\u0027s",
+    "scholarship":  "Global Korea Scholarship",
+    "university":  "Yeungnam University",
+    "program":  "AI \u0026 Computer Vision",
+    "country":  "South Korea",
+    "story":  "I am pursuing an M.Sc. in Computer Vision \u0026 AI at Yeungnam University (YU). I am a Global Korea Scholarship (GKS) scholar funded by NIIED, with additional support from the RLRC \u0026 RISE industry-collaboration projects. My research focuses on 3D computer vision \u0026 spatial intelligence, 6D pose estimation, vision-language-action (VLA) models, world models, and agentic robotics for robot manipulation. My Homepage: s-elim.github.io",
+    "topics":  [
+                   {
+                       "name":  "Essay Review",
+                       "description":  "Feedback on essays and written applications."
+                   },
+                   {
+                       "name":  "University Application",
+                       "description":  "Applications, deadlines, and strategy."
+                   },
+                   {
+                       "name":  "Roadmap",
+                       "description":  "A clear step-by-step study-abroad plan."
+                   },
+                   {
+                       "name":  "Scholarships",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Visa Application",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "Yeungnam University",
+                            "country":  "South Korea",
+                            "scholarship":  "GKS Scholarship( Korean Government Scholarship)",
+                            "status":  "Accepted"
+                        },
+                        {
+                            "university":  "National Tsing Hua University",
+                            "country":  "Taiwan",
+                            "scholarship":  "NRF Fund",
+                            "status":  "Accepted"
+                        },
+                        {
+                            "university":  "KIIT",
+                            "country":  "India",
+                            "scholarship":  "Indian Government Scholarship",
+                            "status":  "Accepted"
+                        },
+                        {
+                            "university":  "SKOLTECH",
+                            "country":  "Russia",
+                            "scholarship":  "100% Tuition Waiver \u0026 Stipends",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Nazarbayev University",
+                            "country":  "Kazakhstan",
+                            "scholarship":  "100% Tuition Waiver \u0026 Stipends",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Asian Institute Of Technology",
+                            "country":  "Thailand",
+                            "scholarship":  "100% Tuition Waiver",
+                            "status":  null
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "KIIT International Students Society",
+                           "detail":  "No additional details provided.",
+                           "description":  "The Korea Times No additional details provided. 39th World Congress of Poet by UNESCO No additional details provided. National Taiwan University( Academia Sinica)"
+                       }
+                   ]
+}

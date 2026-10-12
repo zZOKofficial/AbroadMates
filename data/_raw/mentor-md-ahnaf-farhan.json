@@ -1,0 +1,55 @@
+﻿{
+    "slug":  "md-ahnaf-farhan",
+    "name":  "Md. Ahnaf Farhan",
+    "mentorSince":  "Jan 2026",
+    "photo":  "v1769625908/abroadmates/mentors/ke9dsdaqonk6zjsxclaa.jpg",
+    "degree":  "Master\u0027s",
+    "scholarship":  "Erasmus Mundus Joint Masters",
+    "university":  "Grenoble INP UGA",
+    "program":  "Communications Engineering and Data Science",
+    "country":  "France",
+    "story":  "Hi! I’m Farhan, an Erasmus Mundus master’s student currently studying Communications Engineering and Data Science at Aalto University, Finland, and soon at Grenoble INP, France. Coming from Bangladesh, I know firsthand how challenging it can be to figure out where to apply, how to secure funding, and what life abroad really looks like beyond the glossy brochures. I went through the same uncertainties — and that experience is what drives me to mentor others today. Here, I help students explore study-abroad opportunities, review universities and programs honestly, and guide them through applications and scholarships. If you’re planning your next academic step abroad, I’m here to help you make informed and confident decisions.",
+    "topics":  [
+                   {
+                       "name":  "Essay Review",
+                       "description":  "Feedback on essays and written applications."
+                   },
+                   {
+                       "name":  "Roadmap",
+                       "description":  "A clear step-by-step study-abroad plan."
+                   },
+                   {
+                       "name":  "Scholarships",
+                       "description":  "Find and strengthen scholarship applications."
+                   },
+                   {
+                       "name":  "ECA Guidance",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Personal Statement",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Recommendation Letters",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "Grenoble INP UGA",
+                            "country":  "France",
+                            "scholarship":  "Erasmus Mundus Joint Masters",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Grenoble INP UGA",
+                            "country":  "France",
+                            "scholarship":  "Erasmus Mundus Joint Masters",
+                            "status":  "Accepted"
+                        }
+                    ],
+    "activities":  [
+
+                   ]
+}

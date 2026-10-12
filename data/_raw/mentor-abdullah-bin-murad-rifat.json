@@ -1,0 +1,89 @@
+﻿{
+    "slug":  "abdullah-bin-murad-rifat",
+    "name":  "Abdullah Bin Murad (rifat)",
+    "mentorSince":  "Sep 2025",
+    "photo":  "v1757818802/abroadmates/mentors/ukv94jqabnvpdn0cdocl.jpg",
+    "degree":  "PhD",
+    "scholarship":  "Full Funded Scholarship",
+    "university":  "Northeastern University",
+    "program":  "Chemical Engineering",
+    "country":  "United States",
+    "story":  "Hi! I’m Abdullah, a PhD researcher in Chemical Engineering at Northeastern University, USA (fully funded). Before this, I completed my undergrad in Chemical Engineering at Shahjalal University of Science \u0026 Technology (SUST), Sylhet. I know the journey to higher studies abroad can feel overwhelming—applications, research, funding, interviews—it’s a lot! Having gone through it myself, I can guide you step by step. From building a strong research profile during undergrad to securing a fully funded PhD spot, I’ve learned what works (and what doesn’t), --- 💡 What I can help with → Pathways to higher studies in the USA (and insights on other countries too) • Research guidance — how to start, where to look, and how to make it count • Application strategies to stand out for scholarships \u0026 funding • Honest, practical advice from someone who’s been in your shoes. --- I’m here not just to answer questions, but to share my experiences so you can aim higher, avoid mistakes, and make your path smoother 🚀",
+    "topics":  [
+                   {
+                       "name":  "Essay Review",
+                       "description":  "Feedback on essays and written applications."
+                   },
+                   {
+                       "name":  "Roadmap",
+                       "description":  "A clear step-by-step study-abroad plan."
+                   },
+                   {
+                       "name":  "Visa Application",
+                       "description":  "Visa steps, documents, and timelines."
+                   },
+                   {
+                       "name":  "Scholarships",
+                       "description":  null
+                   },
+                   {
+                       "name":  "ECA Guidance",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Personal Statement",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "Northeastern University",
+                            "country":  "United States",
+                            "scholarship":  "Full Funded Scholarship",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Auburn University",
+                            "country":  "United States",
+                            "scholarship":  "Full Funded Scholarship",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Florida",
+                            "country":  "United States",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "Tulane University",
+                            "country":  "United States",
+                            "scholarship":  "Full Funded Scholarship",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Michigan Technological University",
+                            "country":  "United States",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Houston",
+                            "country":  "United States",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Virginia",
+                            "country":  "United States",
+                            "scholarship":  null,
+                            "status":  null
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "Bangladesh Research \u0026 Innovation Society (BRIS)",
+                           "detail":  "SUST Student Chapter of AIChE",
+                           "description":  null
+                       }
+                   ]
+}

@@ -1,0 +1,89 @@
+﻿{
+    "slug":  "aasheer-ishaque-taswar",
+    "name":  "Aasheer Ishaque Taswar",
+    "mentorSince":  "Jul 2025",
+    "photo":  "v1790694942/abroadmates/profiles/abroadmates/profiles/f5d404e7-ef68-41ba-a4d9-d53f434c4b45.jpg",
+    "degree":  "Master\u0027s",
+    "scholarship":  "EDISU Piemonte Regional Scholarship",
+    "university":  "Politecnico Di Torino",
+    "program":  "Engineering and Management",
+    "country":  "Italy",
+    "story":  "Hi, I’m Aasheer Ishaque Taswar, a Mechanical Engineer currently pursuing an MSc in Engineering and Management at Politecnico di Torino. I am an EDISU Scholarship recipient for my master’s degree and a Stipendium Hungaricum Scholarship recipient for my bachelor’s degree. Having successfully navigated two major scholarship journeys, I understand what it takes to build a strong profile, make smart application decisions, and stand out in a competitive process. For the past five years, I have mentored students from across the world on university selection, scholarship applications, study-abroad planning, and career development. More than 100 students I have guided are now studying abroad. My mentoring style is practical, honest, and results-focused. I do not believe in generic advice. I help students understand their strengths, improve their strategy, avoid common mistakes, and approach the application process with confidence. Alongside study-abroad guidance, I can also support students interested in mechanical engineering, automotive and industrial careers, project management, lean manufacturing, and combining technical expertise with business and leadership skills. If you are looking for clear guidance, real scholarship insights, and a mentor who will challenge you to think bigger and plan better, I am here to help.",
+    "topics":  [
+                   {
+                       "name":  "University Application",
+                       "description":  "Applications, deadlines, and strategy."
+                   },
+                   {
+                       "name":  "Visa Application",
+                       "description":  "Visa steps, documents, and timelines."
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  "Living, studying, and settling abroad."
+                   },
+                   {
+                       "name":  "Essay Review",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Abroad Career",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Resume Review",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "Politecnico Di Torino",
+                            "country":  "Italy",
+                            "scholarship":  "EDISU Piemonte Regional Scholarship (italy)",
+                            "status":  null
+                        },
+                        {
+                            "university":  "TU Hamburg",
+                            "country":  "Germany",
+                            "scholarship":  "100% Tuition Waiver",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Tor Vergata University",
+                            "country":  "Italy",
+                            "scholarship":  "100% Tuition Waiver",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Arizona State University",
+                            "country":  "United States",
+                            "scholarship":  "80% Tuition Waiver",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of South Florida",
+                            "country":  "United States",
+                            "scholarship":  "50% Tuition Waiver",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Debrecen",
+                            "country":  "Hungary",
+                            "scholarship":  "Stipendium Hungaricum Scholarship",
+                            "status":  "Accepted"
+                        },
+                        {
+                            "university":  "Budapest University of Technology and Economics",
+                            "country":  "Hungary",
+                            "scholarship":  "Stipendium Hungaricum Scholarship",
+                            "status":  "Accepted"
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "English Olympiad",
+                           "detail":  null,
+                           "description":  null
+                       }
+                   ]
+}

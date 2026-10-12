@@ -1,0 +1,143 @@
+﻿{
+    "slug":  "japan-university-application-and-scholarship",
+    "type":  "Workshop",
+    "seatsRemaining":  23,
+    "title":  "Japan University Application and Scholarship Roadmap + Live Q\u0026A",
+    "subtitle":  null,
+    "description":  "Planning to study in Japan but unsure which university, intake, scholarship route, or application process fits your profile? Join Japan-based AbroadMates mentors for a practical overview and leave with a shortlist framework, document checklist, and personal application timeline.",
+    "dateLabel":  "Oct 2",
+    "timeLabel":  "9:00 PM GMT+6",
+    "durationLabel":  "100 min",
+    "modeLabel":  "Live + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "850.00",
+    "mentorName":  "Mayesha Maliha Proma",
+    "mentorUniversity":  "Tokyo International University",
+    "mentorSlug":  "mayesha-maliha-proma",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "Mayesha Maliha Proma secured a 100% tuition reduction scholarship in Japan. During her own application journey, she navigated university selection, scholarship planning, document preparation, and the challenges of applying without a clear roadmap.",
+                      "In this session, Mayesha will share the strategies, lessons, and practical steps that helped her build a successful Japan university application. From choosing the right universities to understanding scholarship opportunities, she will help students approach the process with more clarity and confidence.",
+                      "Origin",
+                      "Bangladesh",
+                      "Destination",
+                      "Japan"
+                  ],
+    "outcomesHeading":  "After 100 minutes, you will have a clearer plan",
+    "outcomesIntro":  "In 100 minutes, you’ll get practical insights from real students who have gone through the Japan study journey. From university selection and scholarships to applications and preparation, you’ll leave with a clearer direction for your own path.",
+    "outcomes":  [
+                     {
+                         "title":  "How to choose the right university, program, and study route in Japan",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Understanding Japan’s master’s admission process and application requirements",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Preparing essential documents, statements of purpose, and research proposals",
+                         "description":  null
+                     },
+                     {
+                         "title":  "How to approach professors and build a stronger application profile",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Exploring MEXT, JASSO, university scholarships, and other funding opportunities",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Creating a realistic budget for tuition, living expenses, and studying in Japan",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Understanding student visa, housing, healthcare, and daily life preparation",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Building your personal 30-day action plan to start your Japan study journey",
+                         "description":  null
+                     }
+                 ],
+    "roadmapHeading":  "The 100-minute roadmap",
+    "roadmapIntro":  "3 segments and live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  25,
+                      "title":  "Understanding Japan University Applications",
+                      "bullets":  [
+                                      "• How Japanese university application routes work",
+                                      "• English-taught vs Japanese-taught programmes",
+                                      "• Understanding intakes and application timelines",
+                                      "• How to identify universities that match your goals",
+                                      "• Scholarship routes and funding options"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  35,
+                      "title":  "Building Your Application Strategy",
+                      "bullets":  [
+                                      "• How to shortlist universities strategically",
+                                      "• Understanding what makes a strong applicant profile",
+                                      "• Preparing academic documents and English test requirements",
+                                      "• Writing SOPs and presenting your experiences effectively",
+                                      "• Improving your profile before applying"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  30,
+                      "title":  "Scholarships, Planning \u0026 Live Q\u0026A",
+                      "bullets":  [
+                                      "• Understanding university scholarships and tuition reduction opportunities",
+                                      "• Common mistakes international applicants make",
+                                      "• Creating your personal application timeline",
+                                      "• Getting answers to your specific Japan study questions"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for students who want a clearer path towards studying in Japan.",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "• HSC, A-Level, IB, university, or graduate students exploring Japan"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "• Students looking for English-taught programmes"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "• Applicants confused about universities, scholarships, intakes, or requirements"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "• Students preparing SOPs, documents, and application strategies"
+                     },
+                     {
+                         "number":  "05",
+                         "text":  "• Students who want guidance from someone who has already completed the journey"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

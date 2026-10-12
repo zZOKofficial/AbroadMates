@@ -1,0 +1,71 @@
+﻿{
+    "slug":  "tabib-wasit-khan",
+    "name":  "Tabib Wasit Khan",
+    "mentorSince":  "Jul 2025",
+    "photo":  "v1753210950/jvdYHMt0nBQEcvURUTX72CQI9nx1_kl6xmq.jpg",
+    "degree":  "Bachelor\u0027s",
+    "scholarship":  "Chevron Canada Endowed Scholarship",
+    "university":  "Memorial University of Newfoundland",
+    "program":  "Economics",
+    "country":  "Canada",
+    "story":  "I’m from Bangladesh and have been living in St. John’s for more than three years. I’m a fourth-year Economics student at Memorial University of Newfoundland, pursuing a Minor in Business Administration and a Diploma in Public Policy, with an expected graduation in 2027. I have been through the full experience of moving abroad, figuring things out one step at a time and I genuinely enjoy helping others do the same. Whether it is settling in, finding work, navigating university life or just feeling a little less lost, I am happy to support however I can. Fun fact: I am a shameless binge watcher. If I start a show I like, I have to finish it in one sitting, even if it means staying up until 4 a.m. I just cannot deal with cliffhangers!",
+    "topics":  [
+                   {
+                       "name":  "University Application",
+                       "description":  "Applications, deadlines, and strategy."
+                   },
+                   {
+                       "name":  "Visa Application",
+                       "description":  "Visa steps, documents, and timelines."
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  "Living, studying, and settling abroad."
+                   },
+                   {
+                       "name":  "Essay Review",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Personal Statement",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Resume Review",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "Memorial University of Newfoundland, Canada 🇨🇦",
+                            "country":  "Canada",
+                            "scholarship":  "Chevron Canada Ltd. Endowed Scholarships in Business, Earth Sciences, Economics and Engineering",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Manitoba",
+                            "country":  null,
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Regina",
+                            "country":  null,
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "Middle East Technical University",
+                            "country":  "Turkey",
+                            "scholarship":  null,
+                            "status":  null
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "MUN Economics Society",
+                           "detail":  "No additional details provided.",
+                           "description":  "Student Volunteer Bureau No additional details provided. Memorial University of Newfoundland No additional details provided. Memorial University of Newfoundland No additional details provided."
+                       }
+                   ]
+}

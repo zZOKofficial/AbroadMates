@@ -1,0 +1,59 @@
+﻿{
+    "slug":  "ashfia-salsabil",
+    "name":  "Ashfia Salsabil",
+    "mentorSince":  "Oct 2025",
+    "photo":  "v1760094881/abroadmates/mentors/xw7g3ebr6zzq5jdvusgt.jpg",
+    "degree":  "Bachelor\u0027s",
+    "scholarship":  "Stipendium Hungaricum",
+    "university":  "University of Pecs",
+    "program":  "Psychology",
+    "country":  "Hungary",
+    "story":  "Dear students, As a Stipendium Hungaricum Scholar, I\u0027m here to simplify your application journey! From improvising your CV and motivation letter to sharing entrance exam/interview tips and my struggles and turning points through the process, I\u0027ve got your back! Together, we will ensure your journey is organised, confident and successful.",
+    "topics":  [
+                   {
+                       "name":  "Scholarships",
+                       "description":  "Find and strengthen scholarship applications."
+                   },
+                   {
+                       "name":  "University Application",
+                       "description":  "Applications, deadlines, and strategy."
+                   },
+                   {
+                       "name":  "Test Prep",
+                       "description":  "Plan and practice for IELTS, TOEFL, GRE, and more."
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Abroad Career",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Mock Interviews",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "University of Pecs",
+                            "country":  "Hungary",
+                            "scholarship":  "Stipendium Hungaricum Scholarship Program",
+                            "status":  null
+                        },
+                        {
+                            "university":  "University of Debrecen",
+                            "country":  "Hungary",
+                            "scholarship":  "Stipendium Hungaricum Scholarship Program",
+                            "status":  null
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "Psychology Student Association",
+                           "detail":  "University of Pecs",
+                           "description":  "Erasmus+ Projects titled \"Life in Art\" Bangladesh Red Crescent Society"
+                       }
+                   ]
+}

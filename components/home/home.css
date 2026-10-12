@@ -1,0 +1,27 @@
+/*
+ * Custom, non-Tailwind classes recovered from the compiled production
+ * stylesheet (_reference/css/c4776ee14b373364b50f.css) that the homepage
+ * hero CTA relies on. Kept verbatim so the rendered output matches the
+ * original site pixel-for-pixel.
+ *
+ * NOTE: the reference markup also carries `animate__animated
+ * animate__fadeInUp` on the rotating hero word — those classes were NOT
+ * defined in the production CSS either (animate.css was never bundled),
+ * so they intentionally have no styles here and remain inert, exactly
+ * like the original render.
+ */
+.btn-primary {
+  background-color: var(--color-primary);
+  color: #fff;
+  border-radius: var(--radius-lg);
+  font-weight: 600;
+  font-family: var(--font-brand);
+  box-shadow: var(--shadow-button);
+  padding: 0.5rem 1.25rem;
+  transition: background 0.3s;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #b71b21;
+}

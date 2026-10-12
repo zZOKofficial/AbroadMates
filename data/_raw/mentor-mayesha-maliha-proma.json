@@ -1,0 +1,59 @@
+﻿{
+    "slug":  "mayesha-maliha-proma",
+    "name":  "Mayesha Maliha Proma",
+    "mentorSince":  "Jul 2025",
+    "photo":  "v1774542978/abroadmates/mentors/atfamle5z7cukuttmnmo.jpg",
+    "degree":  "Bachelor\u0027s",
+    "scholarship":  "100% Full Tuition Waiver",
+    "university":  "Tokyo International University",
+    "program":  "Digital Business \u0026 Innovation",
+    "country":  "Japan",
+    "story":  "I know how overwhelming the whole “study abroad” thing can feel, because I’ve been there too. So I’m here to make it simpler, clearer, and honestly, a lot less stressful for you. Think of me as someone in your corner. I’ll help you figure out where to apply, how to build a strong application, and what actually matters so you don’t waste time guessing. At the end of the day, I want you to feel confident about your choices and excited about what’s ahead. And I’ll be right here to guide you.",
+    "topics":  [
+                   {
+                       "name":  "Essay Review",
+                       "description":  "Feedback on essays and written applications."
+                   },
+                   {
+                       "name":  "Roadmap",
+                       "description":  "A clear step-by-step study-abroad plan."
+                   },
+                   {
+                       "name":  "Test Prep",
+                       "description":  "Plan and practice for IELTS, TOEFL, GRE, and more."
+                   },
+                   {
+                       "name":  "University Application",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Scholarships",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "Tallinn University of Technology",
+                            "country":  "Estonia",
+                            "scholarship":  null,
+                            "status":  null
+                        },
+                        {
+                            "university":  "Tokyo International University",
+                            "country":  "Japan",
+                            "scholarship":  "100% Tuition Reduction Scholarship",
+                            "status":  "Accepted"
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "English Olympiad",
+                           "detail":  "No additional details provided.",
+                           "description":  "National Curriculum \u0026 Textbook Board of Bangladesh No additional details provided. Superwoman: A She Learning Platform No additional details provided. Women Opportunities No additional details provided."
+                       }
+                   ]
+}

@@ -1,0 +1,120 @@
+﻿{
+    "slug":  "italy-university-admission-and-regional-scholarship-overview-live-qa",
+    "type":  "Workshop",
+    "seatsRemaining":  29,
+    "title":  "Italy University Admission and Regional Scholarship Overview + Live Q\u0026A",
+    "subtitle":  null,
+    "description":  "Italian university admission and regional scholarships are two different processes. Learn how to plan both timelines, prepare financial documents, and avoid region-specific mistakes.",
+    "dateLabel":  "Oct 25",
+    "timeLabel":  "9:00 PM GMT+6",
+    "durationLabel":  "90 min",
+    "modeLabel":  "Live + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "750.00",
+    "mentorName":  "Aasheer Ishaque Taswar",
+    "mentorUniversity":  "Politecnico Di Torino",
+    "mentorSlug":  "aasheer-ishaque-taswar",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "Hi, I’m Aasheer Ishaque Taswar, a Mechanical Engineer currently pursuing an MSc in Engineering and Management at Politecnico di Torino.",
+                      "I am an EDISU Scholarship recipient for my master’s degree and a Stipendium Hungaricum Scholarship recipient for my bachelor’s degree. Having successfully navigated two major scholarship journeys, I understand what it takes to build a strong profile, make smart application decisions, and stand out in a competitive process.",
+                      "For the past five years, I have mentored students from across the world on university selection, scholarship applications, study-abroad planning, and career development. More than 100 students I have guided are now studying abroad.",
+                      "My mentoring style is practical, honest, and results-focused. I do not believe in generic advice. I help students understand their strengths, improve their strategy, avoid common mistakes, and approach the application process with confidence.",
+                      "Alongside study-abroad guidance, I can also support students interested in mechanical engineering, automotive and industrial careers, project management, lean manufacturing, and combining technical expertise with business and leadership skills.",
+                      "If you are looking for clear guidance, real scholarship insights, and a mentor who will challenge you to think bigger and plan better, I am here to help."
+                  ],
+    "outcomesHeading":  "After 90 minutes, you will have a clearer plan",
+    "outcomesIntro":  "3 outcomes distilled from a successful study-abroad path.",
+    "outcomes":  [
+                     {
+                         "title":  "Admission-versus-scholarship roadmap",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Financial-document preparation checklist",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Region and application-timeline template",
+                         "description":  null
+                     }
+                 ],
+    "roadmapHeading":  "The 90-minute roadmap",
+    "roadmapIntro":  "Four parts, one live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  9,
+                      "title":  "Understanding the journey",
+                      "bullets":  [
+                                      "University admission versus regional scholarship applications",
+                                      "University, programme, and region-selection considerations"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  31,
+                      "title":  "Building a strong application strategy",
+                      "bullets":  [
+                                      "Admission, pre-enrolment, and scholarship timeline planning",
+                                      "Financial and family-document preparation"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  23,
+                      "title":  "Application documents deep dive",
+                      "bullets":  [
+                                      "Why requirements and deadlines vary by region",
+                                      "Common document and submission mistakes"
+                                  ]
+                  },
+                  {
+                      "part":  4,
+                      "minutes":  27,
+                      "title":  "Live Q\u0026A with the mentor",
+                      "bullets":  [
+                                      "First-hand mentor experience",
+                                      "Live Q\u0026A"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for the student who is serious about getting funded.",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "Students preparing for Italian university admission"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "Applicants interested in DSU, EDISU, or another regional scholarship"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "Students confused about admission, pre-enrolment, and scholarship stages"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "Applicants who need help organising financial and family documents"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

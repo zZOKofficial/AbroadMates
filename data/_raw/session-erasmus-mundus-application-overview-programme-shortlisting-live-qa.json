@@ -1,0 +1,136 @@
+﻿{
+    "slug":  "erasmus-mundus-application-overview-programme-shortlisting-live-qa",
+    "type":  "Workshop",
+    "seatsRemaining":  15,
+    "title":  "Erasmus Mundus Application Roadmap and Live QnA",
+    "subtitle":  "From Planning to Submission",
+    "description":  "Ahnaf Farhan will share his own journey and guide you through the lessons, strategies, and steps that helped him navigate the Erasmus Mundus application process.",
+    "dateLabel":  "Sep 25",
+    "timeLabel":  "9:30 PM GMT+6",
+    "durationLabel":  "100 min",
+    "modeLabel":  "Roadmap + Q\u0026A",
+    "tags":  [
+                 "Small group",
+                 "Not a webinar"
+             ],
+    "price":  "950.00",
+    "mentorName":  "Md. Ahnaf Farhan",
+    "mentorUniversity":  "Grenoble INP UGA",
+    "mentorSlug":  "md-ahnaf-farhan",
+    "mentorHeading":  "Learn from someone who has already done it.",
+    "mentorBio":  [
+                      "Md. Ahnaf Farhan is an Erasmus Mundus Joint Master’s student currently studying Communications Engineering and Data Science at Aalto University, Finland, with his next study destination at Grenoble INP, France. Through his own application journey, he learned how important programme selection, profile positioning, and strategic preparation are when applying for Erasmus Mundus. In this session, he will share the lessons and approaches that helped him secure his Erasmus Mundus opportunity."
+                  ],
+    "outcomesHeading":  "After 100 minutes, you will have a clearer plan",
+    "outcomesIntro":  "8 outcomes distilled from a successful study-abroad path.",
+    "outcomes":  [
+                     {
+                         "title":  "Understanding how Erasmus Mundus Joint Masters work",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Finding programmes that match your academic background and goals",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Checking eligibility before investing time in applications",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Building a realistic programme shortlist",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Planning your application timeline and required documents",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Improving your SOP, CV, and motivation strategy",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Understanding what makes an application stand out",
+                         "description":  null
+                     },
+                     {
+                         "title":  "Creating your next steps before starting the application process",
+                         "description":  null
+                     }
+                 ],
+    "roadmapHeading":  "The 100-minute roadmap",
+    "roadmapIntro":  "3 segments and live Q\u0026A — every minute mapped to a decision you will face.",
+    "parts":  [
+                  {
+                      "part":  1,
+                      "minutes":  25,
+                      "title":  "Understanding Erasmus Mundus \u0026 Finding the Right Programmes Duration: 25 min",
+                      "bullets":  [
+                                      "• How Erasmus Mundus Joint Masters work",
+                                      "• How to explore programmes strategically",
+                                      "• Matching your background with the right programmes",
+                                      "• Understanding eligibility requirements"
+                                  ]
+                  },
+                  {
+                      "part":  2,
+                      "minutes":  35,
+                      "title":  "Building a Strong Application Strategy",
+                      "bullets":  [
+                                      "• How to approach SOP and motivation letters",
+                                      "• Presenting your academic and professional experiences effectively",
+                                      "• Preparing CV and supporting documents",
+                                      "• Understanding what selection committees look for"
+                                  ]
+                  },
+                  {
+                      "part":  3,
+                      "minutes":  30,
+                      "title":  "Planning Your Application \u0026 Avoiding Mistakes",
+                      "bullets":  [
+                                      "• Creating your application timeline",
+                                      "• Common mistakes applicants make",
+                                      "• Improving your profile before submission",
+                                      "• Live Q\u0026A with your personal questions"
+                                  ]
+                  }
+              ],
+    "whoHeading":  "Built for students who want a clearer path towards Erasmus Mundus",
+    "whoIntro":  null,
+    "whoItems":  [
+                     {
+                         "number":  "01",
+                         "text":  "• Final-year students planning for funded master’s opportunities"
+                     },
+                     {
+                         "number":  "02",
+                         "text":  "• Recent graduates exploring Erasmus Mundus programmes"
+                     },
+                     {
+                         "number":  "03",
+                         "text":  "• Students confused about programme selection and eligibility"
+                     },
+                     {
+                         "number":  "04",
+                         "text":  "• Applicants preparing their SOP, CV, and application documents"
+                     },
+                     {
+                         "number":  "05",
+                         "text":  "• Students who want guidance from someone who has completed the journey"
+                     }
+                 ],
+    "testimonialsHeading":  "Students who walked away with a plan",
+    "testimonials":  [
+                         {
+                             "quote":  "It was a very helpful session. Many of my confusions are clear now, and my AbroadMate gave me proper direction for my next steps. They carefully analyzed my background and goals and provided detailed feedback along with some useful website links. I really appreciated the guidance and would like to book another session in the near future.",
+                             "attribution":  "US PhD applicant · Fall 2027"
+                         },
+                         {
+                             "quote":  "I enjoy receiving personalized guidance based on my academic background and career goals. My AbroadMate provides clear advice on scholarships, university selection, and application strategies, and answers my questions patiently — which makes the whole process much easier and more motivating.",
+                             "attribution":  "Applying for Fall 2027"
+                         },
+                         {
+                             "quote":  "I really appreciated how humble and patient my AbroadMate was. An exceptional listener who carefully heard out all my problems and provided clear, practical solutions. They gave me plenty of time without any rush, which made the session incredibly helpful and reassuring.",
+                             "attribution":  "Past attendee · Fall 2027 cycle"
+                         }
+                     ]
+}

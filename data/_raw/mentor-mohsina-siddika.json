@@ -1,0 +1,55 @@
+﻿{
+    "slug":  "mohsina-siddika",
+    "name":  "Mohsina Siddika",
+    "mentorSince":  "Feb 2026",
+    "photo":  "v1770312280/abroadmates/mentors/zmgzvu0pyfijdegssdpu.jpg",
+    "degree":  "PhD",
+    "scholarship":  "Quartiles DLA",
+    "university":  "University of Aberdeen",
+    "program":  "Biological Science",
+    "country":  "United Kingdom",
+    "story":  "Hi, I’m Mohsina - an Erasmus Mundus Scholar who studied across Belgium and Spain at Ghent University, UB, UAB, and UPC. Soon to be starting my PhD journey at University of Aberdeen, Scotland. I’ve been through the full study-abroad journey on my own , shortlisting universities, writing motivation letters, applying for scholarships, handling visas, relocating across countries, and adapting to completely new academic systems and cultures. I know how confusing, overwhelming, and stressful this process can feel because I’ve lived it. I’m very detail-oriented when it comes to applications. I know what makes a motivation letter stand out, how to structure a strong CV, and how to plan a smart scholarship strategy, especially for Erasmus Mundus and other funded programs. I can also guide you through visa steps, relocation planning, and what it’s really like to study and live in Europe as an international student. If you want practical guidance, honest feedback, and someone who will help you stay organised, confident, and on track, I’m here to help you make your application clear, strong, and hard to ignore!",
+    "topics":  [
+                   {
+                       "name":  "Scholarships",
+                       "description":  "Find and strengthen scholarship applications."
+                   },
+                   {
+                       "name":  "Recommendation Letters",
+                       "description":  "Guidance on asking for and using LORs."
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  "Living, studying, and settling abroad."
+                   },
+                   {
+                       "name":  "Essay Review",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Mock Interviews",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Resume Review",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "University of Aberdeen",
+                            "country":  "United Kingdom",
+                            "scholarship":  "Quartiles DLA",
+                            "status":  null
+                        },
+                        {
+                            "university":  "Ghent University",
+                            "country":  "Belgium",
+                            "scholarship":  "Erasmus Mundus Scholarship",
+                            "status":  "Accepted"
+                        }
+                    ],
+    "activities":  [
+
+                   ]
+}

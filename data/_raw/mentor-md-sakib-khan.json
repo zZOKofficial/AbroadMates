@@ -1,0 +1,59 @@
+﻿{
+    "slug":  "md-sakib-khan",
+    "name":  "Md. Sakib Khan",
+    "mentorSince":  "Jul 2025",
+    "photo":  "v1753210951/dNNghqDxA1TCJTIex6RnzmebsXL2_vm6hr4.jpg",
+    "degree":  "Bachelor\u0027s",
+    "scholarship":  "100% Full Tuition Waiver",
+    "university":  "University of Pécs",
+    "program":  "Business Administration and Management",
+    "country":  "Hungary",
+    "story":  "Hi, I am Sakib, currently completing my Bachelor in Business Administration and Management at University of Pécs. I am a Stipendium Hungaricum Holder since 2022, which covers my whole tuition fees and I get a monthly stipend. I will be glad to assist you with any questions regarding studying abroad.",
+    "topics":  [
+                   {
+                       "name":  "Essay Review",
+                       "description":  "Feedback on essays and written applications."
+                   },
+                   {
+                       "name":  "University Application",
+                       "description":  "Applications, deadlines, and strategy."
+                   },
+                   {
+                       "name":  "Visa Application",
+                       "description":  "Visa steps, documents, and timelines."
+                   },
+                   {
+                       "name":  "Life Abroad",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Scholarships",
+                       "description":  null
+                   },
+                   {
+                       "name":  "Mock Interviews",
+                       "description":  null
+                   }
+               ],
+    "experiences":  [
+                        {
+                            "university":  "University of Pécs",
+                            "country":  "Hungary",
+                            "scholarship":  "Full Scholarship Including Monthly Stipend",
+                            "status":  "Accepted"
+                        },
+                        {
+                            "university":  "University of Szeged",
+                            "country":  "Hungary",
+                            "scholarship":  "Full Scholarship Including Monthly Stipend",
+                            "status":  "Accepted"
+                        }
+                    ],
+    "activities":  [
+                       {
+                           "name":  "Notre Dame Nature Study Club",
+                           "detail":  null,
+                           "description":  null
+                       }
+                   ]
+}
